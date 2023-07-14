@@ -6,8 +6,8 @@
 
 void ShowCubes(int x){
     for (int i = 1; i <= x; i++){
-    double cube = Math.Pow (i, 3);
-    Console.Write($"{cube} ");
+        double cube = Math.Pow (i, 3);
+        Console.Write($"{cube} ");
     } 
 }
 

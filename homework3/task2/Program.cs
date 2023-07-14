@@ -21,32 +21,3 @@ int x2 = GetNumber("Введите координату X точки В: ");
 int y2 = GetNumber("Введите координату Y точки В: ");
 int z2 = GetNumber("Введите координату Z точки В: ");
 Space(x1, x2, y1, y2, z1, z2);
-
-
-
-
-
-
-
-
-
-
-
-
-
-// void Length(int x){
-//     x = Math.Abs(x);
-//     string num = x.ToString();
-//     Console.Write(num.Length);
-// }
-
-// int GetNumber(string s){
-//     Console.Write(s);
-//     return Convert.ToInt32(Console.ReadLine());
-// }
-
-// int digit = GetNumber("Введите число: ");
-// Length(digit);
-
-
- 

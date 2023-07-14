@@ -17,4 +17,3 @@ if (array.Length > 2){
 else {
     Console.WriteLine($"У {number} нет третьей цифры.");
 }
-

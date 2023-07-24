@@ -1,0 +1,15 @@
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/bin/Debug/net6.0/task1
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/bin/Debug/net6.0/task1.deps.json
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/bin/Debug/net6.0/task1.dll
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/bin/Debug/net6.0/task1.pdb
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/task1.dll
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/refint/task1.dll
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/task1.pdb
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/Users/anastasiaakovleva/Desktop/study/practice/homework5/task1/obj/Debug/net6.0/ref/task1.dll
